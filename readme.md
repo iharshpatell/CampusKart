@@ -29,5 +29,5 @@ CampusKart is a full-stack web application built specifically for college studen
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Smriti780/Campus_Kart.git
+   git clone https://github.com/iharshpatell/CampusKart.git
    cd CampusKart
